@@ -47,7 +47,7 @@ source scripts/set_api.sh
 python src/inference.py --model <model_name> --subset <subset_name>
 
 # format 
-python src/inference.py --model <model_name> --subset <subset_name>
+python src/formating.py --model <model_name> --subset <subset_name>
 
 # evaluate results
 python src/evaluate.py --model <model_name> --subset <subset_name>
