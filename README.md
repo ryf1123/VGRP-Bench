@@ -37,7 +37,7 @@ export TEMP_DIR_VGRPB=../../TEMP_DIR_VGRPB
 
 # Run the evaluation
 
-> Currently only support puzzle solving. Please refer to https://huggingface.co/datasets/Emo3331/VGRP-Bench for more details regarding the dataset.
+> Currently only support puzzle solving. Please refer to https://huggingface.co/datasets/VGRP-Bench/VGRP-Bench for more details regarding the dataset.
 
 ```bash
 # set API keys; modify this file and run
