@@ -1,10 +1,24 @@
 # Official Evaluation Scripts for Paper: VGRP-Bench: Visual Grid Reasoning Puzzle Benchmark for Large Vision-Language Models (Under Construction)
 
-
+<div align="center">
+  
 [![arXiv](https://img.shields.io/badge/arXiv-2304.12345-b31b1b.svg)](https://arxiv.org/abs/2503.23064)
 [![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://yufan-ren.com/subpage/VGRP-Bench/index.html)
 [![Dataset](https://img.shields.io/badge/🤗_Dataset-VGRP--Bench-yellow)](https://huggingface.co/datasets/VGRP-Bench/VGRP-Bench/tree/main)
+  
+**[EPFL](https://www.epfl.ch/schools/ic/)**; **[National and Kapodistrian University of Athens](https://en.uoa.gr/)**; **[Meta GenAI](https://ai.facebook.com/research/)**; **[University College London](https://www.ucl.ac.uk/)**; [University of Oxford](https://www.ox.ac.uk/)
 
+[Yufan Ren](https://yufan-ren.com/), [Konstantinos Tertikas](https://ktertikas.github.io/), [Shalini Maiti](https://www.linkedin.com/in/shalini-maiti-a76a2b86), [Junlin Han](https://junlinhan.github.io/), [Sabine Süsstrunk](https://www.epfl.ch/labs/ivrl/people/susstrunk/), [Filippos Kokkinos](https://www.fkokkinos.com/)
+</div>
+
+```bibtex
+@article{ren2025vgrp,
+  title={VGRP-Bench: Visual Grid Reasoning Puzzle Benchmark for Large Vision-Language Models},
+  author={Ren, Yufan and Tertikas, Konstantinos and Maiti, Shalini and Han, Junlin and Zhang, Tong and S{\"u}sstrunk, Sabine and Kokkinos, Filippos},
+  journal={arXiv preprint arXiv:2503.23064},
+  year={2025}
+}
+```
 
 ## Introduction
 
