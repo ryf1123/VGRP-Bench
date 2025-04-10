@@ -1,4 +1,4 @@
-# Official Evaluation Scripts for Paper: VGRP-Bench: Visual Grid Reasoning Puzzle Benchmark for Large Vision-Language Models
+VGRP-Bench: Visual Grid Reasoning Puzzle Benchmark for Large Vision-Language Models (Official)
 
 <div align="center">
   
