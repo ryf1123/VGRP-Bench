@@ -68,4 +68,8 @@ python src/evaluate.py --model <model_name> --subset <subset_name>
 ./scripts/launch_vllm_server.sh
 ```
 
+## Work in progress
+
+Integrating VGPBench to the [VLMEvalKit](https://github.com/open-compass/VLMEvalKit). 
+
 
