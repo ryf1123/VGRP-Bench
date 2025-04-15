@@ -82,8 +82,10 @@ python src/evaluate.py --model <model_name> --subset <subset_name>
 ./scripts/launch_vllm_server.sh
 ```
 
-## Work in progress
+## Evaluate your model on our benchmark within the VLMEvalKit
 
-Integrating VGPBench to the [VLMEvalKit](https://github.com/open-compass/VLMEvalKit). 
+We integrated our benchmark to the [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) as in this [fork](https://github.com/ryf1123/VLMEvalKit). One could use a script like below to run
 
-
+```bash
+OPENAI_API_KEY={Your OpenAI API key} python run.py --data VGRPBench --model ChatGPT4o --verbose --api-nproc 16
+```
